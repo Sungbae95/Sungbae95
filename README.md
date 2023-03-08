@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi there 👋
-### I'm ParkSeongBae, Junior developer
+### I'm a Back-end Developer 
 ##### 📫 Email: sbpark0402@gmail.com
 ##### 💬 Profile: 
 약력 | 기간
