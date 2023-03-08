@@ -7,6 +7,7 @@
 약력 | 기간
 --|--
 Daejeon University Computer Software|2014.03.01 ~ 2021.02.22
+ICT Internship | 2020.07.01 ~ 2020.09.01
 Samsung Software Academy For Youth 7기|2022.01.05 ~ 2022.12.31
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sungbae95&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
