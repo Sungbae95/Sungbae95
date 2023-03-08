@@ -29,6 +29,7 @@ Samsung Software Academy For Youth 7기|2022.01.05 ~ 2022.12.31
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>
 
 <!--
 카드 추가하려면 아래에서 색 코드와 이름 찾기
