@@ -16,7 +16,7 @@ Samsung Software Academy For Youth 7기|2022.01.05 ~ 2022.12.31
 
 ### 🎨Skills
 **Languages**  
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white">
