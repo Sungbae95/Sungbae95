@@ -8,7 +8,7 @@
 --|--
 Daejeon University Computer Software|2014.03.01 ~ 2021.02.22
 ICT Internship | 2020.07.01 ~ 2020.09.01
-Samsung Software Academy For Youth 7기|2022.01.05 ~ 2022.12.31
+Samsung Software Academy For Youth 7기|2022.01.05 ~ 2022.12.30
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sungbae95&show_icons=true&theme=tokyonight)<br/>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sbpark110542)](https://solved.ac/sbpark110542)
