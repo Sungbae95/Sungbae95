@@ -6,7 +6,7 @@
 ##### 💬 Profile: 
 약력 | 기간
 --|--
-Daejeon University Computer Software|2014.03.01 ~ 2021.02.22
+<!-- Daejeon University Computer Software|2014.03.01 ~ 2021.02.22 -->
 ICT Internship | 2020.07.01 ~ 2020.09.01
 Samsung Software Academy For Youth 7기|2022.01.05 ~ 2022.12.30
 
